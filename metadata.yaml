@@ -1,0 +1,33 @@
+_repo: Summa-Theologica-Part-III--Tertia-Pars-From-the-Complete-American-Edition_19950
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomas, Aquinas, Saint
+    alias: Aquinas, Thomas, Saint
+    deathdate: 1274
+    gutenberg_agent_id: '7489'
+    url: http://www.gutenberg.org/2009/agents/7489
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Aquinas
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2006-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19950'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Doctrines -- Early works to 1800'
+- !lcc 'BX'
+- !lcsh 'Theology, Doctrinal -- Early works to 1800'
+- !lcsh 'God -- Omnipresence -- Early works to 1800'
+- !lcsh 'God -- Attributes -- Early works to 1800'
+title: 'Summa Theologica, Part III (Tertia Pars)
+
+  From the Complete American Edition'
+url: http://www.gutenberg.org/ebooks/19950
