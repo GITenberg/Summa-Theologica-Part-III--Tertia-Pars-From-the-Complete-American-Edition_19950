@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7489
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Aquinas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19950#Summa-Theologica-Part-III--Tertia-Pars-From-the-Complete-American-Edition
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2006-11-28'
 gutenberg_type: Text
